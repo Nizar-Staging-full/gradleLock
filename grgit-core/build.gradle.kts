@@ -24,7 +24,7 @@ dependencies {
   api("org.codehaus.groovy:groovy:[3.0.9, 4.0)")
 
   // jgit
-  api("org.eclipse.jgit:org.eclipse.jgit:[6.0, 7.0)")
+  api("org.eclipse.jgit:org.eclipse.jgit:[7.3,7.4)")
 }
 
 testing {
